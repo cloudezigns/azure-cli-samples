@@ -5,8 +5,8 @@
 # Variable block
 
 # Replace these three variable values with actual values
-subscriptionID=00000000-0000-0000-0000-00000000
-csvFileLocation="myFilePath\myFileName.csv"
+subscriptionID=ef34625f-ba4b-44dc-9b1f-ec66a3b61bd4
+csvFileLocation="~\AzureAD\resourcesgroup.csv"
 logFileLocation="myFilePath\myLogName.txt"
 
 # Variable values that contain a prefix can be replaced with the prefix of your choice.
